@@ -1,6 +1,7 @@
 package Ventana;
 //https://github.com/GilbertoM0/UniS.git
 //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
+// Modificacion hecha desde mi  Pad
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.event.ActionEvent;

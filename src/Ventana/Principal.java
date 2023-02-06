@@ -1,7 +1,6 @@
 
 package Ventana;
 
-//jejejej
 
 public class Principal 
 {

@@ -1,7 +1,7 @@
 
 package Ventana;
 
-//holi
+//Clase principal para ventana
 
 public class Principal 
 {

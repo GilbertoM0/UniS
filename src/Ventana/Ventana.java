@@ -15,7 +15,7 @@ import javax.swing.JTextField;
 
 public class Ventana extends JFrame
 {
-1
+
     public Ventana ()
     {
         //Crear ventana

@@ -1,8 +1,10 @@
+package Ventana;
+
 public class Hola
 {
-    public void main (String[]args)
+    public static void main (String[]args)
     {
-        System.out.println("Hello world");
+        System.out.println("Hello world jeje");
     }
 
 }

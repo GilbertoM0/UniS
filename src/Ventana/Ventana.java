@@ -2,7 +2,7 @@ package Ventana;
 //https://github.com/GilbertoM0/UniS.git
 //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
 // Modificacion hecha desde mi  Pad
-//Hola, como estas, bien y tu
+//Hola, como estas, bien y tu, bien
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.event.ActionEvent;

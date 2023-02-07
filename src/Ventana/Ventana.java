@@ -56,7 +56,7 @@ public class Ventana extends JFrame
         nombre.setBounds (200, 100, 300, 40);
         panel.add (nombre);
 
-                        //CODIGO EXTRA
+        //CODIGO EXTRA
         // Crear dos JTextFields para ingresar los números
         JTextField num1 = new JTextField ();
         num1.setBounds (100, 100, 150, 20);
